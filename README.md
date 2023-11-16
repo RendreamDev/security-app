@@ -1,7 +1,7 @@
 <p align="center"><a href="https://rendream.com" target="_blank"><img src="https://portfolio.rendream.com/logo-lg.png" width="400" alt="Rendream"></a></p>
 
 ## About Security App
-Introducing Security App, an advanced web security application crafted to fortify your website against a myriad of cyber threats. This robust solution is engineered to shield your online presence from SQLi Attacks (SQL Injections), XSS Vulnerabilities, Proxy Visitors, VPN Users, TOR Traffic, Spam, and a multitude of other potential risks.
+Security App, an advanced web security application crafted to fortify your website against a myriad of cyber threats. This robust solution is engineered to shield your online presence from SQLi Attacks (SQL Injections), XSS Vulnerabilities, Proxy Visitors, VPN Users, TOR Traffic, Spam, and a multitude of other potential risks.
 
 Employing intelligent algorithms reminiscent of those utilized by industry leaders, Security App not only identifies known hacker attacks but also swiftly detects emerging, previously unknown threats through sophisticated code recognition and pattern analysis. The application takes automatic action, ensuring your website's defense is proactive and effective.
 
