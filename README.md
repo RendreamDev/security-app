@@ -9,7 +9,9 @@ The heart of Security App lies in its feature-rich admin panel, providing compre
 
 Designed as a potent Web Application Firewall, Security App is adept at safeguarding a spectrum of PHP software, from bespoke scripts to popular shopping cart solutions and CMS applications. Its exceptional speed, optimization, and minimal system resource requirements make it an ideal choice for website administrators seeking advanced security without compromising performance.
 
-Elevate your website's defense with Security App, ensuring a fortified digital presence through its proactive and adaptive security features. The application's seamless integration and user-friendly admin panel empower you to effortlessly manage and enhance the security of your online assets.## Technologies:
+Elevate your website's defense with Security App, ensuring a fortified digital presence through its proactive and adaptive security features. The application's seamless integration and user-friendly admin panel empower you to effortlessly manage and enhance the security of your online assets.
+
+## Technologies:
 
  - PHP 8
  - Bootstrap 4
